@@ -1,0 +1,16 @@
+# Segredos
+.env
+
+# Pastas de dados dinâmicos e arquivos pesados
+Audios_dailys/
+transcricoes/
+Atas/
+
+# Ambientes virtuais (cada dev instala o seu)
+venv/
+env/
+
+# Arquivos temporários do Python e do Sistema
+__pycache__/
+*.pyc
+.DS_Store
