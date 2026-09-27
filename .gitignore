@@ -5,6 +5,7 @@
 Audios_dailys/
 transcricoes/
 Atas/
+config.json
 
 # Ambientes virtuais (cada dev instala o seu)
 venv/

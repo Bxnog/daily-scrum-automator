@@ -1,0 +1,3 @@
+Reunião de alinhamento Daily Scrum da equipe de software. 
+Participantes:  
+Termos: Trello, Kanban, Python, Gemini, LLM, API, IA, Dev, PO, Scrum Master, Demoday, Proa.
