@@ -14,10 +14,6 @@ Uma ferramenta em Python para automação de atas de reuniões. O script captura
 
 * **Transcrição Local com Contexto:** Processamento via `faster-whisper` com suporte a vocabulário técnico e mapeamento dos nomes da equipe.
 
-* **Quadro de Tarefas para Kanban/Trello:** Identifica tarefas e atribui responsáveis (individuais, duplas ou para toda a equipe) em formato de checklist ao final do relatório.
-
-* **Relatório Flexível:** Formatação atemporal baseada em ciclos de encontros ("desde a última reunião"), perfeita para reuniões diárias, semanais ou esporádicas.
-
 * **Prompts Personalizáveis:** O arquivo `prompt_ata.md` pode ser editado para adaptar a geração da ata a necessidades específicas, como diferentes formatos, informações ou regras para o relatório.
 
 * **Contexto Personalizável para Transcrição:** O arquivo `prompt_contexto.txt` pode ser alterado para fornecer contexto adicional ao processo de transcrição, como nomes, termos técnicos e vocabulário específico do projeto, ajudando a melhorar a precisão do áudio transcrito.
